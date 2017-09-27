@@ -1,0 +1,5 @@
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ExampleBaseAndDerivedClasses\ExampleBaseAndDerivedClasses\bin\Debug\ExampleBaseAndDerivedClasses.exe.config
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ExampleBaseAndDerivedClasses\ExampleBaseAndDerivedClasses\bin\Debug\ExampleBaseAndDerivedClasses.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ExampleBaseAndDerivedClasses\ExampleBaseAndDerivedClasses\bin\Debug\ExampleBaseAndDerivedClasses.pdb
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ExampleBaseAndDerivedClasses\ExampleBaseAndDerivedClasses\obj\Debug\ExampleBaseAndDerivedClasses.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ExampleBaseAndDerivedClasses\ExampleBaseAndDerivedClasses\obj\Debug\ExampleBaseAndDerivedClasses.pdb
