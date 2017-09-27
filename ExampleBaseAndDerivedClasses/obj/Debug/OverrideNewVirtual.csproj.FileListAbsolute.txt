@@ -4,3 +4,9 @@ C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\ExampleBaseAndDer
 C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\ExampleBaseAndDerivedClasses\ExampleBaseAndDerivedClasses\obj\Debug\OverrideNewVirtual.csprojResolveAssemblyReference.cache
 C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\ExampleBaseAndDerivedClasses\ExampleBaseAndDerivedClasses\obj\Debug\ExampleBaseAndDerivedClasses.exe
 C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\ExampleBaseAndDerivedClasses\ExampleBaseAndDerivedClasses\obj\Debug\ExampleBaseAndDerivedClasses.pdb
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\OverrideNewVirtual\ExampleBaseAndDerivedClasses\bin\Debug\ExampleBaseAndDerivedClasses.exe.config
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\OverrideNewVirtual\ExampleBaseAndDerivedClasses\bin\Debug\ExampleBaseAndDerivedClasses.exe
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\OverrideNewVirtual\ExampleBaseAndDerivedClasses\bin\Debug\ExampleBaseAndDerivedClasses.pdb
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\OverrideNewVirtual\ExampleBaseAndDerivedClasses\obj\Debug\OverrideNewVirtual.csprojResolveAssemblyReference.cache
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\OverrideNewVirtual\ExampleBaseAndDerivedClasses\obj\Debug\ExampleBaseAndDerivedClasses.exe
+C:\Users\oleksii.remizov\Documents\Visual Studio 2017\Projects\OverrideNewVirtual\ExampleBaseAndDerivedClasses\obj\Debug\ExampleBaseAndDerivedClasses.pdb
